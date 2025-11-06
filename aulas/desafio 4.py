@@ -1,0 +1,6 @@
+n = float(input('Digite um numero: '))
+#print(n.isnumeric())
+#print(n.isalpha())
+#print(n.isdecimal())
+#print(n.isalnum())
+print(type(n))
